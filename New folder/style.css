@@ -1,0 +1,52 @@
+/* 1. Thẻ nội dung (giả định dùng class .content) */
+.content {
+  font-family: "Arial", sans-serif;
+  font-size: 16px;
+}
+
+/* 2. Thẻ tiêu đề (giả định là header) */
+header {
+  background-color: #004080;
+  color: white;
+  padding: 20px;
+}
+
+/* 3. Thẻ nav */
+nav {
+  background-color: #0066cc;
+  padding: 10px;
+}
+
+/* 4. Thẻ main */
+main {
+  background-color: #f4f4f4;
+  font-size: 18px;
+  padding: 20px;
+}
+
+/* 5. Thẻ footer */
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
+
+/* 6. Thẻ li */
+li {
+  display: inline-block;
+  width: 120px;
+  margin-right: 10px;
+}
+
+/* 7. Thẻ h1 */
+h1 {
+  text-align: center;
+  font-family: "Verdana", sans-serif;
+  color: #2a7ae2;
+}
+
+/* 8. Thẻ p */
+p {
+  line-height: 1.6;
+}
